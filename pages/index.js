@@ -76,6 +76,7 @@ const Index = ({ notes }) => {
       textSize: 'large' // preferred text size
     }
   }
+  
   return (
     <div className={style.notecontainer}>
       <h1 className={style.header}>Catagories</h1>
